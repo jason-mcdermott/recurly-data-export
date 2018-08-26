@@ -1,0 +1,21 @@
+{
+  "name": "recurly-data-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "recurly",
+    "recurly api",
+    "recurly automated export",
+    "recurly data export"
+  ],
+  "author": "Jason McDermott",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "xml2json": "^0.11.2"
+  }
+}
