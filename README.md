@@ -1,5 +1,5 @@
 # recurly-data-export
-A quick PoC to download Recurly data using Node.js
+Download Recurly data using Node.js
 
 Notes:
   * Update config.js with 
